@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-07T06:17:16.195Z" agent="Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="YesRWHm1qNmKT6249LkR" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-07T06:23:21.670Z" agent="Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="04AGDznsBKyGc9ie5aCQ" version="12.6.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="975" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -16,12 +16,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="流程圖" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="1300" height="610" as="geometry">
+          <mxGeometry x="120" y="120" width="1340" height="610" as="geometry">
             <mxRectangle x="120" y="120" width="30" height="50" as="alternateBounds"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="起始站" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" width="1280" height="120" as="geometry">
+          <mxGeometry x="20" width="1320" height="120" as="geometry">
             <mxRectangle x="20" width="430" height="20" as="alternateBounds"/>
           </mxGeometry>
         </mxCell>
@@ -54,8 +54,17 @@
         <mxCell id="CUFx5QakU0rwKCmNiKUU-51" value="刷QRCode接收站&lt;br&gt;(到達站)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="530" y="30" width="110" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="運送單位" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="120" width="1280" height="120" as="geometry"/>
+        <mxCell id="CUFx5QakU0rwKCmNiKUU-162" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="CUFx5QakU0rwKCmNiKUU-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="290" as="sourcePoint"/>
+            <mxPoint x="505" y="60" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="505" y="360"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="運送單位(一銅二課)" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" y="120" width="1320" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="CUFx5QakU0rwKCmNiKUU-55" target="CUFx5QakU0rwKCmNiKUU-56">
           <mxGeometry relative="1" as="geometry"/>
@@ -65,15 +74,6 @@
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-56" value="刷QRCode製程卡&lt;br&gt;(到達)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="800" y="30" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="CUFx5QakU0rwKCmNiKUU-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" target="CUFx5QakU0rwKCmNiKUU-112">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="-60" as="sourcePoint"/>
-            <mxPoint x="350" y="325" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="510" y="296"/>
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-151" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="CUFx5QakU0rwKCmNiKUU-148" target="CUFx5QakU0rwKCmNiKUU-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="到達站" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="240" width="1280" height="140" as="geometry"/>
+          <mxGeometry x="20" y="240" width="1320" height="140" as="geometry"/>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="CUFx5QakU0rwKCmNiKUU-59" target="CUFx5QakU0rwKCmNiKUU-61">
           <mxGeometry relative="1" as="geometry"/>
@@ -132,7 +132,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-27" value="前研開發&lt;br&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;shadow=0;comic=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
-          <mxGeometry x="20" y="380" width="1280" height="230" as="geometry"/>
+          <mxGeometry x="20" y="380" width="1320" height="230" as="geometry"/>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CUFx5QakU0rwKCmNiKUU-27" source="CUFx5QakU0rwKCmNiKUU-95" target="CUFx5QakU0rwKCmNiKUU-98">
           <mxGeometry relative="1" as="geometry">
@@ -187,10 +187,10 @@
         <mxCell id="CUFx5QakU0rwKCmNiKUU-107" value="自動取該批lotControl&lt;br&gt;最後一筆出數量" style="text;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
           <mxGeometry x="330" y="172" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="CUFx5QakU0rwKCmNiKUU-109" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;通知運送站簡訊+Email&lt;br&gt;(系統設定之固定運送站)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
+        <mxCell id="CUFx5QakU0rwKCmNiKUU-109" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;通知運送站簡訊+Email&lt;br&gt;(系統設定之固定運送站)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
           <mxGeometry x="130" y="22" width="140" height="38" as="geometry"/>
         </mxCell>
-        <mxCell id="CUFx5QakU0rwKCmNiKUU-112" value="建立欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
+        <mxCell id="CUFx5QakU0rwKCmNiKUU-112" value="增加欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
           <mxGeometry x="480" y="36" width="90" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-114" value="委託站" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
@@ -201,7 +201,7 @@
             <mxPoint x="525" y="90" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CUFx5QakU0rwKCmNiKUU-116" value="建立欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
+        <mxCell id="CUFx5QakU0rwKCmNiKUU-116" value="增加欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
           <mxGeometry x="585" y="35" width="90" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-120" value="接收站" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
@@ -215,7 +215,7 @@
         <mxCell id="CUFx5QakU0rwKCmNiKUU-95" value="建立欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
           <mxGeometry x="320" y="30" width="90" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="CUFx5QakU0rwKCmNiKUU-130" value="建立欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
+        <mxCell id="CUFx5QakU0rwKCmNiKUU-130" value="增加欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
           <mxGeometry x="700" y="30" width="90" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-131" value="運送&lt;br&gt;時間(起)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
@@ -226,7 +226,7 @@
             <mxPoint x="544.8571428571429" y="-415" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CUFx5QakU0rwKCmNiKUU-137" value="建立欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
+        <mxCell id="CUFx5QakU0rwKCmNiKUU-137" value="增加欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
           <mxGeometry x="920" y="36" width="90" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-138" value="運送&lt;br&gt;時間(迄)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
@@ -246,7 +246,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CUFx5QakU0rwKCmNiKUU-143" value="建立欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
+        <mxCell id="CUFx5QakU0rwKCmNiKUU-143" value="增加欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
           <mxGeometry x="1053" y="35" width="90" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-144" value="接收站(接收)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
@@ -263,7 +263,7 @@
             <mxPoint x="1098" y="-70" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CUFx5QakU0rwKCmNiKUU-148" value="建立欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
+        <mxCell id="CUFx5QakU0rwKCmNiKUU-148" value="增加欄位" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
           <mxGeometry x="1210" y="34" width="90" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-149" value="接收站(結案)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
@@ -274,7 +274,7 @@
             <mxPoint x="604.8571428571429" y="-1916" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CUFx5QakU0rwKCmNiKUU-152" value="是否刷QRCode製程卡&lt;br&gt;取得時間再討論?&lt;br&gt;或拍照取得?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
+        <mxCell id="CUFx5QakU0rwKCmNiKUU-152" value="如何取得起始時間?&lt;br&gt;1.刷QRCode製程卡?&lt;br&gt;2.拍照取得?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
           <mxGeometry x="585" y="166.5" width="130" height="51" as="geometry"/>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-154" value="&lt;font color=&quot;#ff0000&quot;&gt;手機&lt;/font&gt;:&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;自動以批號比對取得同一紀錄&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
@@ -299,8 +299,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CUFx5QakU0rwKCmNiKUU-157" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;通知到達站&lt;br&gt;一銅二課&lt;br&gt;(到達站單位之&lt;br&gt;共用信箱)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
-          <mxGeometry x="810" y="20" width="90" height="70" as="geometry"/>
+        <mxCell id="CUFx5QakU0rwKCmNiKUU-157" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;通知到達站&lt;br&gt;一銅二課&lt;br&gt;(到達站單位之&lt;br&gt;共用信箱)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="CUFx5QakU0rwKCmNiKUU-27">
+          <mxGeometry x="820" y="20" width="90" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="CUFx5QakU0rwKCmNiKUU-161" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="CUFx5QakU0rwKCmNiKUU-27" source="CUFx5QakU0rwKCmNiKUU-157">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
