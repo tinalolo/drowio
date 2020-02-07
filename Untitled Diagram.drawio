@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-07T08:19:21.281Z" agent="Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="Q5kIvAiflW-lJQqH93d1" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-07T08:46:47.314Z" agent="Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="9-GxkH4ksPI3Uv2_01O0" version="12.6.5" type="github">
   <diagram id="hdkYb0Td_tebzguvI-KW" name="Page-1">
     <mxGraphModel dx="1178" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,13 +78,13 @@
         <mxCell id="upDEURiN5PVKTH1yd_sb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="upDEURiN5PVKTH1yd_sb-50" target="upDEURiN5PVKTH1yd_sb-53">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="upDEURiN5PVKTH1yd_sb-50" value="1.刷QRCode製程卡&lt;br&gt;(接收)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="upDEURiN5PVKTH1yd_sb-50" value="1.刷QRCode製程卡&lt;br&gt;(接收站)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="128" y="660" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="upDEURiN5PVKTH1yd_sb-52" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="78" y="660" width="20" height="160" as="geometry"/>
         </mxCell>
-        <mxCell id="upDEURiN5PVKTH1yd_sb-53" value="2.刷QRCode製程卡&lt;br&gt;(結案)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=0;comic=0;arcSize=15;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="upDEURiN5PVKTH1yd_sb-53" value="2.刷QRCode製程卡&lt;br&gt;(結案站)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=0;comic=0;arcSize=15;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="128" y="755" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="upDEURiN5PVKTH1yd_sb-62" value="到達站&lt;br&gt;(一銅二課)" style="text;html=1;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -359,18 +359,6 @@
         </mxCell>
         <mxCell id="upDEURiN5PVKTH1yd_sb-235" value="2步驟" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;horizontal=1;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="110" y="640" width="50" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="upDEURiN5PVKTH1yd_sb-238" value="進" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="98" y="471" width="30" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="upDEURiN5PVKTH1yd_sb-239" value="出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="98" y="569.5" width="30" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="upDEURiN5PVKTH1yd_sb-240" value="進" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="98" y="674.75" width="30" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="upDEURiN5PVKTH1yd_sb-241" value="出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="98" y="773.25" width="30" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
