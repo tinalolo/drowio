@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-07T08:16:32.179Z" agent="Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="3xuRGwW7qv04StJjcYSP" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-07T08:18:15.662Z" agent="Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="o0EtHLtxrnxxJWJWOOnh" version="12.6.5" type="github">
   <diagram id="hdkYb0Td_tebzguvI-KW" name="Page-1">
     <mxGraphModel dx="1178" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -351,14 +351,14 @@
             <mxPoint x="11.29" y="-1.01" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="upDEURiN5PVKTH1yd_sb-232" value="3步驟" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="280" width="50" height="20" as="geometry"/>
+        <mxCell id="upDEURiN5PVKTH1yd_sb-232" value="3步驟" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;horizontal=1;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="50" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="upDEURiN5PVKTH1yd_sb-234" value="2步驟" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="431" width="50" height="20" as="geometry"/>
+        <mxCell id="upDEURiN5PVKTH1yd_sb-234" value="2步驟" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;horizontal=1;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="110" y="432" width="50" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="upDEURiN5PVKTH1yd_sb-235" value="2步驟" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="640" width="50" height="20" as="geometry"/>
+        <mxCell id="upDEURiN5PVKTH1yd_sb-235" value="2步驟" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;horizontal=1;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="110" y="640" width="50" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
