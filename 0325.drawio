@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-03-26T07:00:22.398Z" agent="Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="GNtT9X1YRH8lW9SYKTEE" version="12.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-26T07:01:03.004Z" agent="Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="IordcQz-erZ0dJp6BywB" version="12.9.2" type="github">
   <diagram id="S9fF6DKeapb-z3vefFNl" name="Page-1">
-    <mxGraphModel dx="1178" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oIlpluFnvuG2AOdzgRo8-5" value="前研開發" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="542.24" y="79.99999999999999" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oIlpluFnvuG2AOdzgRo8-21" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 16px&quot;&gt;設備部維修刷QRC&lt;span class=&quot;926482506-07022020&quot; style=&quot;font-size: 16px&quot;&gt;ode紀錄系統&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Ver 2.0&lt;br style=&quot;font-size: 16px&quot;&gt;2020-03-24" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="oIlpluFnvuG2AOdzgRo8-21" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 16px&quot;&gt;設備部維修刷QRC&lt;span class=&quot;926482506-07022020&quot; style=&quot;font-size: 16px&quot;&gt;ode紀錄系統&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Ver 2.0&lt;br style=&quot;font-size: 16px&quot;&gt;2020-03-26" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="30" y="30" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oIlpluFnvuG2AOdzgRo8-23" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;通知刷條碼人員的上級&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;br&gt;系統發出 Email&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;(超過2小時-課長 4小時-副理)&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
