@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T05:26:00.731Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="bzNu7XdqUwAFa0zNYqq3" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-07T04:27:02.246Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="U8OWUiDkIWLZHB9-Hukn" version="13.0.8" type="github">
   <diagram id="QHrzg7KjF0NviSd4jtjv" name="Page-1">
-    <mxGraphModel dx="1414" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oaEg7dbtf8Ls-yO2VBh6-2" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 16px&quot;&gt;設備部維修刷QRC&lt;span class=&quot;926482506-07022020&quot; style=&quot;font-size: 16px&quot;&gt;ode紀錄系統&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Ver 3.0&lt;br style=&quot;font-size: 16px&quot;&gt;2020-04-28" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="30" y="20" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-4" value="搶修" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBorderColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="745" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oaEg7dbtf8Ls-yO2VBh6-6" value="領班以上&lt;br&gt;人員" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="60" y="120" width="76.25" height="40" as="geometry" />
@@ -84,18 +81,6 @@
         <mxCell id="oaEg7dbtf8Ls-yO2VBh6-118" value="&lt;font color=&quot;#0000ff&quot;&gt;機台開始使用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=1;align=center;fillColor=#e1d5e7;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
           <mxGeometry x="209.37999999999988" y="579.9999999999999" width="91.12" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.522;entryY=0.144;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" parent="1" source="oaEg7dbtf8Ls-yO2VBh6-125" target="oaEg7dbtf8Ls-yO2VBh6-166" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-125" value="小維修" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBorderColor=none;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="1196.99" y="215" width="93" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oaEg7dbtf8Ls-yO2VBh6-126" target="oaEg7dbtf8Ls-yO2VBh6-133" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-126" value="保養" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="1066.99" y="215" width="93" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="oaEg7dbtf8Ls-yO2VBh6-130" value="" style="endArrow=classic;html=1;fontSize=12;startArrow=none;startFill=0;endFill=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oaEg7dbtf8Ls-yO2VBh6-103" target="oaEg7dbtf8Ls-yO2VBh6-132" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="151.55999999999995" as="sourcePoint" />
@@ -107,9 +92,6 @@
         </mxCell>
         <mxCell id="oaEg7dbtf8Ls-yO2VBh6-132" value="&lt;span&gt;實際故障期間&lt;/span&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;labelPosition=center;verticalLabelPosition=middle;spacingLeft=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="157" width="123.25" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-133" value="先開單 無需及時處理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1048.49" y="280" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oaEg7dbtf8Ls-yO2VBh6-135" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;通知&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;建單人員的上級&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;系統發出 ( TeamPlus ) 通知&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;(維修超過2小時-課長 4小時-副理)&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="390" y="352" width="200" height="58" as="geometry" />
@@ -132,9 +114,6 @@
             <mxPoint x="390" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-142" value="排除&lt;br&gt;1. 外修&lt;br&gt;2.領料作業&lt;br&gt;時間不要求精準" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1306.99" y="140" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="oaEg7dbtf8Ls-yO2VBh6-143" value="" style="endArrow=classic;html=1;fontSize=12;startArrow=none;startFill=0;endFill=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oaEg7dbtf8Ls-yO2VBh6-101" target="oaEg7dbtf8Ls-yO2VBh6-145" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="347.12" y="327" as="sourcePoint" />
@@ -146,9 +125,6 @@
         </mxCell>
         <mxCell id="oaEg7dbtf8Ls-yO2VBh6-146" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="358" y="120" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-147" value="只有選擇作業類別：&lt;font color=&quot;#ff0000&quot;&gt;repair-2 搶修----生產中斷待修&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1036.99" y="776.25" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oaEg7dbtf8Ls-yO2VBh6-154" value="" style="endArrow=classic;html=1;fontSize=12;startArrow=none;startFill=0;endFill=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oaEg7dbtf8Ls-yO2VBh6-100" target="oaEg7dbtf8Ls-yO2VBh6-156" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -180,41 +156,6 @@
         <mxCell id="oaEg7dbtf8Ls-yO2VBh6-163" value="上傳資料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="317" y="640" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-164" value="早上先開全部的單&lt;br&gt;先確定好工作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1057.99" y="319" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-166" value="不刷QRCode" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1196.99" y="292.13" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-168" value="以前是製造部領班以上開單&lt;br&gt;現在改所有人 (含外勞)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1181.99" y="390" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-169" value="左邊選報表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="960" y="522" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="oaEg7dbtf8Ls-yO2VBh6-170" target="oaEg7dbtf8Ls-yO2VBh6-171" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-170" value="右邊選領料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="522" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.008;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oaEg7dbtf8Ls-yO2VBh6-171" target="oaEg7dbtf8Ls-yO2VBh6-172" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1299.99" y="515" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1299.99" y="532" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-171" value="製造部簽名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1186.99" y="522" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-172" value="銷帳" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1326.99" y="522" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oaEg7dbtf8Ls-yO2VBh6-178" value="還要跟製造部做確認" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1093.99" y="639" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="MkK0oGUV6ZDrCR8vyTg1-60" value="&lt;span style=&quot;text-align: left&quot;&gt;ERP系統建工單&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="390" y="87.13" width="120" height="40" as="geometry" />
         </mxCell>
@@ -227,10 +168,10 @@
         <mxCell id="MkK0oGUV6ZDrCR8vyTg1-62" value="上傳 時間 +&lt;br&gt;資產編號" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="306.99999999999994" y="71" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Na9U2WQnSF68F2_U42-A-1" value="&lt;span style=&quot;text-align: left&quot;&gt;通知 &lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;現場&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 153)&quot;&gt;人員的上級&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;系統發出 ( TeamPlus ) 通知&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;(超過2小時-課長 4小時-副理)&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Na9U2WQnSF68F2_U42-A-1" value="&lt;span style=&quot;text-align: left&quot;&gt;通知 &lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;現場&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 153)&quot;&gt;人員的上級&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;系統發出 ( TeamPlus ) 通知&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;(超過2小時-課長 4小時-副理)&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="390" y="522" width="200" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="Na9U2WQnSF68F2_U42-A-2" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;通知&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;設備人員&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;系統發出 ( TeamPlus ) 通知&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;(超過2小時-課長 4小時-副理)&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Na9U2WQnSF68F2_U42-A-2" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;通知&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 255 , 153)&quot;&gt;設備人員&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;系統發出 ( TeamPlus ) 通知&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;(超過2小時-課長 4小時-副理)&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="390" y="192" width="200" height="58" as="geometry" />
         </mxCell>
       </root>
